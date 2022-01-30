@@ -4,23 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StrategyPattern.States
+namespace StrategyPattern.Strategy
 {
-    internal class BrushState : IToolState
+    internal class SelectionStrategy : IToolStrategy
     {
         public void OnMouseDown()
         {
-            Console.WriteLine("Brush tool selected");
+            Console.WriteLine("Selection tool selected");
         }
 
         public void OnMouseMove()
         {
-            Console.WriteLine("Create line");
+            Console.WriteLine("Draw select area");
         }
 
         public void OnMouseUp()
         {
-            Console.WriteLine("Line creating stopped");
+            Console.WriteLine("Commit select area");
         }
     }
 }

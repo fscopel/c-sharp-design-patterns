@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern
 {
-    internal interface IToolState
+    internal interface IToolStrategy
     {
         void OnMouseDown();
         void OnMouseUp();
