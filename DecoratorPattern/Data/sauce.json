@@ -1,0 +1,76 @@
+{
+  "sauces": [
+    {
+      "name": "Classic Marinara",
+      "price": 0.00,
+      "options": [
+        {
+          "name": "Extra",
+          "price": 0.00
+        },
+        {
+          "name": "Regular",
+          "price": 0.00
+        },
+        {
+          "name": "Light",
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Creamy Garlic Parmesan",
+      "price": 0.00,
+      "options": [
+        {
+          "name": "Extra",
+          "price": 0.00
+        },
+        {
+          "name": "Regular",
+          "price": 0.00
+        },
+        {
+          "name": "Light",
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Barbeque",
+      "price": 0.00,
+      "options": [
+        {
+          "name": "Extra",
+          "price": 0.00
+        },
+        {
+          "name": "Regular",
+          "price": 0.00
+        },
+        {
+          "name": "Light",
+          "price": 0.00
+        }
+      ]
+    },
+    {
+      "name": "Buffalo",
+      "price": 0.00,
+      "options": [
+        {
+          "name": "Extra",
+          "price": 0.00
+        },
+        {
+          "name": "Regular",
+          "price": 0.00
+        },
+        {
+          "name": "Light",
+          "price": 0.00
+        }
+      ]
+    }
+  ]
+}

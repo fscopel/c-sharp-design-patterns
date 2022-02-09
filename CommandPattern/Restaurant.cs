@@ -123,7 +123,6 @@ public class OrderBeverageCommand : IOrderCommand
         _beverage = beverage;
     }
 
-
     public void Execute()
     {
         _preparer.Prepare(_beverage);

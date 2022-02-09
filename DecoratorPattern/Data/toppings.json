@@ -1,0 +1,21 @@
+{
+  "toppings": [
+    {
+      "name": "Regular",
+      "price": 1.59
+    },
+    {
+      "name": "Extra",
+      "price": 3.18
+    },
+    {
+      "name": "Half",
+      "price": 0.80
+    },
+    {
+      "name": "Extra Half",
+      "price": 1.58
+    }
+
+  ]
+}

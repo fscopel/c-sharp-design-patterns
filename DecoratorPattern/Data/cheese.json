@@ -1,0 +1,16 @@
+{
+  "cheese": [
+    {
+      "name": "Extra",
+      "price": 2.25
+    },
+    {
+      "name": "Regular",
+      "price": 0.00
+    },
+    {
+      "name": "Light",
+      "price": 0.00
+    }
+  ]
+}

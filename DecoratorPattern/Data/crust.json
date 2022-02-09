@@ -1,0 +1,62 @@
+{
+
+  "crustType": [
+    {
+      "name": "Original Pan Pizza",
+      "price": 1.00,
+      "sizes": [
+        {
+          "name": "Large",
+          "price": 0.00
+        },
+        {
+          "name": "Medium",
+          "price": -1.00
+        },
+        {
+          "name": "Personal",
+          "price": -6.00
+        }
+      ]
+    },
+    {
+      "name": "Hand Tossed Pizza",
+      "price": 0.00,
+      "sizes": [
+        {
+          "name": "Large",
+          "price": 0.00
+        },
+        {
+          "name": "Medium",
+          "price": -2.00
+        }
+      ]
+    },
+    {
+      "name": "Thin 'N Crispy",
+      "price": 0.00,
+      "sizes": [
+        {
+          "name": "Large",
+          "price": 0.00
+        },
+        {
+          "name": "Medium",
+          "price": -2.00
+        }
+      ]
+    },
+    {
+      "name": "Original Stuffed Crust",
+      "price": 2.00,
+      "sizes": [
+        {
+          "name": "Large",
+          "price": 0.00
+        }
+      ]
+    }
+  ]
+  
+}
